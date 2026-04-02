@@ -2,6 +2,8 @@
 
 Control de rotor de antena vía WiFi con interfaz web embebida. Diseñado para rotores de antena de radioaficionado Walmar, permite girar y posicionar la antena desde cualquier dispositivo con navegador (celular, tablet o PC) en la red local.
 
+(images/192.168.0.63_rotor.png)
+
 ## Qué hace
 
 - **Control manual** — Botones de giro izquierda/derecha con pulsación continua (mantener presionado)
