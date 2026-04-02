@@ -2,7 +2,7 @@
 
 Control de rotor de antena vía WiFi con interfaz web embebida. Diseñado para rotores de antena de radioaficionado Walmar, permite girar y posicionar la antena desde cualquier dispositivo con navegador (celular, tablet o PC) en la red local.
 
-(images/192.168.0.63_rotor.png)
+![Interfaz web del rotor](images/192.168.0.63_rotor.png)
 
 ## Qué hace
 
@@ -16,7 +16,7 @@ Control de rotor de antena vía WiFi con interfaz web embebida. Diseñado para r
 - **Tema claro/oscuro** — Interfaz con estética retro-industrial, switcheable entre modo oscuro y claro
 
 ## Hardware necesario
-
+![plaqueta](images/IMG_20260402_155445802.jpg)
 | Componente | Detalle |
 |---|---|
 | **Microcontrolador** | ESP32-C3 SuperMini |
