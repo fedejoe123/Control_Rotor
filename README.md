@@ -122,7 +122,7 @@ El controlador expone una API REST para integración con otros sistemas:
 ## Estructura de archivos
 
 ```
-├── rotor_controller__6_.ino   # Firmware principal
-├── index_html.h               # Webapp comprimida (gzip) como array PROGMEM
+├── rotor_controller.ino   # Firmware principal
+├── index_html.h           # Webapp comprimida (gzip) como array PROGMEM
 └── README.md
 ```
