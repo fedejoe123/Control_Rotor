@@ -1,4 +1,4 @@
-# 🛰️ Control de Rotor — ESP32-C3 SuperMini
+# 🛰️ Control de Rotor — ESP32-C3 SuperMini (por LU4AFJ)
 
 Control de rotor de antena vía WiFi con interfaz web embebida. Diseñado para rotores de antena de radioaficionado Walmar, permite girar y posicionar la antena desde cualquier dispositivo con navegador (celular, tablet o PC) en la red local.
 
