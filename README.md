@@ -35,13 +35,19 @@ GPIO 3  ───────►  IN3 → Relé DERECHA
 3.3V    ───────►  VCC
 GND     ───────►  GND
 
-ESP32-C3          Rotor (potenciómetro)
-────────          ────────────────────
-GPIO 4  ◄──┬───  Divisor de tensión (pin 6 → 100kΩ → GPIO4 → 27kΩ → GND/pin 7)
-           │
-         100nF
-           │
-          GND
+ESP32-C3                                     Consola del Rotor
+────────                                     ─────────────────
+                             ─────────────── pin 6
+                            │
+                          100kΩ
+                            │
+GPIO4 ───┬──────────────────┼ 
+         │                  │
+       100nF               27kΩ
+         │                  │
+GND   ───┼────────┬─────────┼──────────────── pin 7
+                 GND
+
 ```
 
 ## Instalación
